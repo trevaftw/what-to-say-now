@@ -38,7 +38,7 @@ class AdminEdit extends Component {
     return (
       <>
         <div className="edit-choice-div">
-          <div classname="roleMenu">
+          <div className="roleMenu">
             <Menu fluid widths={3}>
               <Menu.Item
                 name="weekly"

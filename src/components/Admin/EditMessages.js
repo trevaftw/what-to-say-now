@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { withRouter } from 'react-router';
-import AdminEditTable from './AdminEditTable';
 
 import { Menu } from "semantic-ui-react";
 

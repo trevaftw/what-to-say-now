@@ -99,7 +99,7 @@ class EditWeeklyContent extends Component {
           Select a role, age group, and week to view and edit content.
         </h3>
         <div className="role-age-menu-div">
-          <div classname="roleMenu">
+          <div className="roleMenu">
             <Menu fluid widths={3}>
               <Menu.Item
                 name="role1"
